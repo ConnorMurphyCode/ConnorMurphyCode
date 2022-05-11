@@ -2,4 +2,4 @@
 - 👀 I’m interested in AI, Automation, Machine Learning, and VR
 - 🌱 I’m currently learning Python and Advanced Data Structures (In Uni)
 - 💞️ I’m looking to collaborate on anything I can!
-- 📫 How to reach me: connormurphycollab@gmail.com
+- 📫 How to reach me: connormurphydev@gmail.com
